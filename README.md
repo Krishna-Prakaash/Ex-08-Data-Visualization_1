@@ -255,3 +255,20 @@ plt.show()
 ```
 
 # OUPUT
+## Initial Dataset:
+![OUTPUT-01](IMG-01.PNG)
+## Cleaned Dataset:
+![OUTPUT-02](IMG-02.PNG)
+## Removing Outliers:
+![OUTPUT-03](IMG-03.PNG)
+![OUTPUT-04](IMG-04.PNG)
+## Line PLot:
+![OUTPUT-05](IMG-05.PNG)
+![OUTPUT-06](IMG-06.PNG)
+![OUTPUT-08](IMG-08.PNG)
+![OUTPUT-09](IMG-09.PNG)
+## Bar Plots:
+
+
+
+    
