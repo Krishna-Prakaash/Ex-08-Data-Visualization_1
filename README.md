@@ -264,7 +264,11 @@ plt.show()
 ![OUTPUT-04](IMG-04.PNG)
 ## Line PLot:
 ![OUTPUT-05](IMG-05.PNG)
+
+
 ![OUTPUT-06](IMG-06.PNG)
+
+
 ![OUTPUT-08](IMG-08.PNG)
 
 
