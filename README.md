@@ -306,6 +306,30 @@ plt.show()
 ![OUTPUT-29](IMG-29.PNG)
 ![OUTPUT-30](IMG-30.PNG)
 
-    
+## Violin Plot:
+![OUTPUT-31](IMG-31.PNG)
+![OUTPUT-32](IMG-32.PNG)
+![OUTPUT-33](IMG-33.PNG)
+
+## Point Plots:
+![OUTPUT-34](IMG-34.PNG)
+
+## Pie Charts:
+![OUTPUT-35](IMG-35.PNG)
+![OUTPUT-36](IMG-36.PNG)
+![OUTPUT-37](IMG-37.PNG)
+![OUTPUT-38](IMG-38.PNG)
+![OUTPUT-39](IMG-39.PNG)
+
+## HeatMap:
+![OUTPUT-40](IMG-40.PNG)
+
+# Result:
+
+Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully and the data is saved to file.
+
+
+
+
 
 
