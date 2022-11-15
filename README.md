@@ -281,6 +281,14 @@ plt.show()
 ![OUTPUT-14](IMG-14.PNG)
 ![OUTPUT-15](IMG-15.PNG)
 
+## Histograms:
+![OUTPUT-16](IMG-16.PNG)
+![OUTPUT-17](IMG-17.PNG)
+![OUTPUT-18](IMG-18.PNG)
+![OUTPUT-19](IMG-19.PNG)
+![OUTPUT-20](IMG-20.PNG)
+
+
 
 
     
