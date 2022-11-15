@@ -266,6 +266,8 @@ plt.show()
 ![OUTPUT-05](IMG-05.PNG)
 ![OUTPUT-06](IMG-06.PNG)
 ![OUTPUT-08](IMG-08.PNG)
+
+
 ![OUTPUT-09](IMG-09.PNG)
 ## Bar Plots:
 
