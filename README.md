@@ -289,6 +289,23 @@ plt.show()
 ![OUTPUT-20](IMG-20.PNG)
 
 
+## Count plots:
+![OUTPUT-21](IMG-21.PNG)
+![OUTPUT-22](IMG-22.PNG)
+![OUTPUT-23](IMG-23.PNG)
 
+
+## Bar Charts:
+![OUTPUT-24](IMG-24.PNG)
+![OUTPUT-25](IMG-25.PNG)
+![OUTPUT-26](IMG-26.PNG)
+![OUTPUT-27](IMG-27.PNG)
+![OUTPUT-28](IMG-28.PNG)
+
+## KDE Plots:
+![OUTPUT-29](IMG-29.PNG)
+![OUTPUT-30](IMG-30.PNG)
 
     
+
+
